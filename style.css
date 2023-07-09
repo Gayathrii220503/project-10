@@ -1,0 +1,98 @@
+.face{
+    height:230px ;
+    width:230px ;
+    margin-left:600px ;
+    margin-top:100px ;
+    background-color: pink;
+    border-radius:100% ;
+    position: relative;
+    border:1px solid black;
+
+}
+.reye{
+    height: 55px;
+    width:55px ;
+    top:50px ;
+    left: 40px;
+    border-radius:100% ;
+    background-color: white;
+    position:absolute ;
+}
+.leye{
+    height: 55px;
+    width:55px ;
+    top:50px ;
+    left: 140px;
+    border-radius:100% ;
+    background-color: white;
+    position:absolute ;
+}
+.leye1{
+    height: 26px;
+    width:26px ;
+    top:66px ;
+    left: 152px;
+    border-radius:100% ;
+    background-color: black;
+    position:absolute ;
+
+}
+.reye2{
+    height: 26px;
+    width:26px ;
+    top:66px ;
+    left:55px;
+    border-radius:100% ;
+    background-color: black;
+    position:absolute ;
+}
+.mouth{
+    height: 47px;
+    width:80px;
+    top: 140px;
+    left:75px;
+    background-color: red;
+    border-radius:30px 30px 30px 30px;
+    position: absolute;
+    border:1px solid black ;
+}
+.round1{
+    height: 23px;
+    width:23px ;
+    top:10px ;
+    left:11px;
+    border-radius:100% ;
+    background-color: black;
+    position:absolute ;
+}
+.round2{
+    height: 22px;
+    width:22px ;
+    top:10px ;
+    left:48px;
+    border-radius:100% ;
+    background-color: black;
+    position:absolute ;
+}
+.ear1{
+    height:100px;
+    width: 80px ;
+    top:90px;
+    left:755px;
+    position: absolute;
+    background-color:pink ;
+    border-radius:100% ;
+    border: 1px solid black;
+}
+.ear2{
+    height:100px;
+    width: 80px ;
+    top:90px;
+    left:610px;
+    position: absolute;
+    background-color:pink ;
+    border-radius:100% ;
+    border: 1px solid black;
+}
+
+}
